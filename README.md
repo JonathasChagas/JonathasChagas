@@ -1,6 +1,9 @@
 # Hi, I'm Jônathas Chagas
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JonathasChagas&theme=dark&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JonathasChagas&theme=dark&layout=compact)
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JonathasChavas&show_icons=true&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathasChagas&layout=compact&theme=dark"/›
+</div>
 Jonathas78/Jonathas78 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
