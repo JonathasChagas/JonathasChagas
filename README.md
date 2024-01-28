@@ -5,7 +5,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathasChagas&layout=compact&theme=dark"/›
 </div>
 
-  <p align="center> "I have been studying programming since 2023, and I am currently pursuing a degree in Computer Engineering at the State University of Minas Gerais (UEMG) in Brazil since the same year </p
+  <p align="center> "I have been studying programming since 2023, and I am currently pursuing a degree in Computer Engineering at the State University of Minas Gerais (UEMG) in Brazil since the same year </p>&nbsp;
 
 #### Currently studying:
 
