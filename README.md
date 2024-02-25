@@ -1,11 +1,12 @@
-# Hi, I'm Jônathas Chagas
+# Hi, I'm Jônathas!
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JonathasChagas&show_icons=true&theme=dark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathasChagas&layout=compact&theme=dark"/›
 </div>
 
-I have been studying programming since 2023, and I am currently pursuing a degree in Computer Engineering at the State University of Minas Gerais (UEMG) in Brazil since the same year
+## 🚀 About me
+I have been studying programming since 2023, and I am currently pursuing a degree in Computer Engineering at the State University of Minas Gerais (UEMG) in Brazil since the same year.
 
 #### Currently studying:
 
