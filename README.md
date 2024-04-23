@@ -10,7 +10,7 @@ I have been studying programming since 2023, and I am currently pursuing a degre
 
 #### Currently studying:
 
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)&nbsp;
+![Java](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=java&logoColor=blue)&nbsp;
 
 ## Contacts 
 
