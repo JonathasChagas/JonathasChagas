@@ -10,7 +10,8 @@ I have been studying programming since 2023, and I am currently pursuing a degre
 
 #### Currently studying:
 
-![Java](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=java&logoColor=blue)&nbsp;
+<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
+
 
 ## Contacts 
 
