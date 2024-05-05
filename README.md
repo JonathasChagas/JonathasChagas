@@ -47,9 +47,9 @@
 <h2 align="center"> Contatos</h2> 
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/j%C3%B4nathaschagas/" target="_blank"> <i> class="ci ci-linkedin ci-4x"></i> </a>
-  <a href="https://www.linkedin.com/in/j%C3%B4nathaschagas/"> <i> class="ci ci-gmail ci-4x"></i> </a>
-</span>
+  <a href="https://www.linkedin.com/in/j%C3%B4nathaschagas/" target="_blank"> <i class="ci ci-linkedin ci-4x"></i> </a>
+  <a href="https://www.linkedin.com/in/j%C3%B4nathaschagas/"> <i class="ci ci-gmail ci-4x"></i> </a>
+</p>
 </br>
 
 <h2 align="center"><picture>
