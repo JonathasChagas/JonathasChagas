@@ -1,11 +1,4 @@
-<head>
-  <link
-  rel="stylesheet"
-  href="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.5/src/app/ci.min.css"
-/>
-</head>
-
- <h1 align="center"> <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="27px"> Olá! Me chamo Jônathas 👨‍🎓</h1>
+<h1 align="center"> <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="27px"> Olá! Me chamo Jônathas 👨‍🎓</h1>
 
 <p align="center">
 <i> "Até o dia em que Deus dignar-se a desvelar o futuro para o homem, toda a sabedoria humana estará nessas duas palavras: Esperar e ter esperança". </i></br>
@@ -52,10 +45,10 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/j%C3%B4nathaschagas/" target="_blank">
-      <i class="ci ci-linkedin ci-4x"></i>
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="">
   </a>
   <a href="mailto:jonathas252423@gmail.com">
-      <i class="ci ci-gmail ci-4x"></i>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
 
