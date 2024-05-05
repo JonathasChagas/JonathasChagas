@@ -1,9 +1,4 @@
- <head>
-  <link
-  rel="stylesheet"
-  href="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.5/src/app/ci.min.css"
-/>
- </head>
+
  
 
  <h1 align="center"> <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="27px"> Olá! Me chamo Jônathas 👨‍🎓</h1>
@@ -27,7 +22,7 @@
     📘 Cursando Engenharia da Computação na UEMG; </br>
     👨‍💻 Tive meu primeiro contato com programaçao em 2023, ao ingressar no curso; </br>
     🤔 Desde então, venho tendo contato com tecnologias diversas em uma constante busca por aprendizado. </br></br>
-    <picture><img src="https://i.gifer.com/FTLF.gif" alt="Menina estudando" width="90%"></picture>
+    <picture><img src="https://i.imgur.com/XlsM8xu.gif" alt="Menina estudando" width="90%"></picture>
   </p>
 
   
@@ -49,14 +44,11 @@
 </p>
 
 
-<h2 align="center"><picture>
-  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f343/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f343/512.gif" alt="🍃" width="27">
-</picture> Contatos</h2> 
+<h2 align="center"> Contatos</h2> 
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/j%C3%B4nathaschagas/" target="_blank" <i class="ci ci-linkedin ci-4x"></i>> </a>
-  <a href="https://www.linkedin.com/in/j%C3%B4nathaschagas/" <i class="ci ci-gmail ci-4x"></i>> </a>
+  <a href="https://www.linkedin.com/in/j%C3%B4nathaschagas/" target="_blank"> <i> class="ci ci-linkedin ci-4x"></i> </a>
+  <a href="https://www.linkedin.com/in/j%C3%B4nathaschagas/"> <i> class="ci ci-gmail ci-4x"></i> </a>
 </span>
 </br>
 
