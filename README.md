@@ -1,23 +1,73 @@
-# Hi, I'm Jônathas!
+ <head>
+  <link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.5/src/app/ci.min.css"
+/>
+ </head>
+ 
 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JonathasChagas&show_icons=true&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathasChagas&layout=compact&theme=dark"/›
+ <h1 align="center"> <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="27px"> Olá! Me chamo Jônathas 👨‍🎓</h1>
+
+<p align="center">
+<i> "Até o dia em que Deus dignar-se a desvelar o futuro para o homem, toda a sabedoria humana estará nessas duas palavras: Esperar e ter esperança". </i></br>
+<b>O conde de Monte Cristo, Alexandre Dumas</b></br></br>
+<span>Prazer em te conhecer!</span>
+</p>
+
+
+<h2 align="center"><picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="27px">
+</picture> Sobre mim </h2>
+
+
+<div align="center">
+
+  <p>
+    📘 Cursando Engenharia da Computação na UEMG; </br>
+    👨‍💻 Tive meu primeiro contato com programaçao em 2023, ao ingressar no curso; </br>
+    🤔 Desde então, venho tendo contato com tecnologias diversas em uma constante busca por aprendizado. </br></br>
+    <picture><img src="https://i.gifer.com/FTLF.gif" alt="Menina estudando" width="90%"></picture>
+  </p>
+
+  
+
 </div>
 
-## 🚀 About me
-I have been studying programming since 2023, and I am currently pursuing a degree in Computer Engineering at the State University of Minas Gerais (UEMG) in Brazil since the same year.
-
-#### Currently studying:
-
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
+</br>
 
 
-## Contacts 
+<h2 align="center"><picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.gif" alt="💡" width="27">
+</picture>Habilidades</h2>
 
-<a href="https://www.linkedin.com/in/j%C3%B4nathas-chagas-60b0722a9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
-<a href = "mailto:jonathas252423@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,c,html,css,git" />
+  </a>
+</p>
 
+
+<h2 align="center"><picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f343/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f343/512.gif" alt="🍃" width="27">
+</picture> Contatos</h2> 
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/j%C3%B4nathaschagas/" target="_blank" <i class="ci ci-linkedin ci-4x"></i>> </a>
+  <a href="https://www.linkedin.com/in/j%C3%B4nathaschagas/" <i class="ci ci-gmail ci-4x"></i>> </a>
+</span>
+</br>
+
+<h2 align="center"><picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f63f/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f63f/512.gif" alt="😿" width="27">
+</picture>Até breve</h2>
+
+<p align="center">
+    Foi um prazer te ter aqui! </br>
+    E lembre-se: Nunca é um adeus.
 <!--
 Jonathas78/Jonathas78 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
