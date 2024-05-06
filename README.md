@@ -41,7 +41,10 @@
 </p>
 
 
-<h2 align="center"> Contatos</h2> 
+<h2 align="center"><picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f343/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f343/512.gif" alt="🍃" width="32" height="32">
+</picture> Contatos</h2> 
 
 <p align="center">
   <a href="https://www.linkedin.com/in/j%C3%B4nathaschagas/" target="_blank">
