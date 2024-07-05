@@ -44,19 +44,13 @@
 
   <p>
     <a href="https://skillicons.dev">
-      <img height=50 src="https://skillicons.dev/icons?i=java,spring" />
+      <img height=50 src="https://skillicons.dev/icons?i=java,spring,html,css,git" />
     </a>
   </p>
   
 <div>
 
 <p>
-
-<p align="center">
-  <picture>
-    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHh0Z3RsZGlxcjc5cWRoeDd2OWU1emQ0MnhqZmdrejkzcHphNmR3NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6XX4V0O8a0xdS/giphy.webp" alt="Menina pensando" width="90%">
-  </picture>
-</p>
 
 <h2 align="center">
   <picture>
