@@ -46,21 +46,21 @@
 
   <p>
     <a href="https://skillicons.dev">
-      <img height=40 src="https://skillicons.dev/icons?i=java,spring" />
+      <img height=50 src="https://skillicons.dev/icons?i=java,spring" />
     </a>
   </p>
   
-  <img height=25 src="https://img.shields.io/badge/Principal-004466?style=for-the-badge&logo=&logoColor=white"/>
+  <img height=30 src="https://img.shields.io/badge/Principal-004466?style=for-the-badge&logo=&logoColor=white"/>
 
   <p>
   
   <p align="center">
       <a href="https://skillicons.dev">
-        <img height=35 src="https://skillicons.dev/icons?i=c,html,css,git" />
+        <img height=50 src="https://skillicons.dev/icons?i=c,html,css,git" />
       </a>
   </p>
 
-  <img height=25 src="https://img.shields.io/badge/Outras-004466?style=for-the-badge&logo=&logoColor=white"/>
+  <img height=30 src="https://img.shields.io/badge/Outras-004466?style=for-the-badge&logo=&logoColor=white"/>
   
 <div>
 
@@ -89,7 +89,7 @@
 
 <p align="center">
   <picture>
-    <img src="https://i.gifer.com/1kfE.gif" alt="Menina dando tchau" width="90%">
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHh0Z3RsZGlxcjc5cWRoeDd2OWU1emQ0MnhqZmdrejkzcHphNmR3NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6XX4V0O8a0xdS/giphy.webp" alt="Menina dando tchau" width="90%">
   </picture>
 </p>
 
