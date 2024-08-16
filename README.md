@@ -1,12 +1,12 @@
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="27px"> 
-  Olá! Me chamo Jônathas 👨‍🎓
+  Hi! My name is Jônathas 👨‍🎓
 </h1>
 
 <p align="center">
-  <i>"Até o dia em que Deus dignar-se a desvelar o futuro para o homem, toda a sabedoria humana estará nessas duas palavras: Esperar e ter esperança".</i></br>
-  <b>O conde de Monte Cristo, Alexandre Dumas</b></br></br>
-  <span>Prazer em te conhecer!</span>
+  <i>“Until the day when God shall deign to reveal the future to man, all human wisdom is summed up in these two words: Wait and hope.”</i></br>
+  <b>The Count of Monte Cristo, Alexandre Dumas</b></br></br>
+  <span>Nice to meet you!</span>
 </p>
 
 <h2 align="center">
@@ -14,16 +14,16 @@
     <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.webp" type="image/webp">
     <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="27px">
   </picture>
-  Sobre mim
+  About Me
 </h2>
 
 <div align="center">
   <p>
-    📘 Cursando Engenharia da Computação na UEMG; </br>
-    👨‍💻 Tive meu primeiro contato com programaçao em 2023, ao ingressar no curso; </br>
-    🤔 Desde então, venho tendo contato com tecnologias diversas em uma constante busca por aprendizado. </br></br>
+    📘 Majoring in Computer Engineering; </br>
+    👨‍💻 First started coding in 2023, after joining college; </br>
+    🤔 Since then, I've been learning many technologies in a constant search for knowledge.</br></br>
     <picture>
-      <img src="https://i.imgur.com/XlsM8xu.gif" alt="Menina estudando" width="90%">
+      <img src="https://i.imgur.com/XlsM8xu.gif" alt="Girl Studying" width="90%">
     </picture>
   </p>
 </div>
@@ -36,7 +36,7 @@
     <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.webp" type="image/webp">
     <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.gif" alt="💡" width="27">
   </picture>
-  Estudando
+  Learning
 </h2>
 
 
@@ -57,19 +57,19 @@
     <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f63f/512.webp" type="image/webp">
     <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f63f/512.gif" alt="😿" width="27">
   </picture>
-  Até breve
+  See ya!
 </h2>
 
 
 
 <p align="center">
-  Foi um prazer te ter aqui! </br>
-  E lembre-se: <b>Nunca é um adeus.</b> 
+  It was a pleasure having you here! </br>
+  And don't forget: <b>It's never a goodbye.</b> 
 </p>
 
 <p align="center">
   <picture>
-    <img src="https://steamuserimages-a.akamaihd.net/ugc/865104227697070065/2862A4C8F7E6931A96E24AB87965B7002ECCA911/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Menina dando tchau" width="90%">
+    <img src="https://steamuserimages-a.akamaihd.net/ugc/865104227697070065/2862A4C8F7E6931A96E24AB87965B7002ECCA911/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Girl saying goodbye" width="90%">
   </picture>
 </p>
 
