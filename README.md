@@ -6,7 +6,13 @@
 <p align="center">
   <i>“Until the day when God shall deign to reveal the future to man, all human wisdom is summed up in these two words: Wait and hope.”</i></br>
   <b>The Count of Monte Cristo, Alexandre Dumas</b></br></br>
-  <span>Nice to meet you!</span>
+  <span>Nice to meet you!</span></br>
+</p>
+
+<p align="center">
+  <i>
+    <a href="https://github.com/JonathasChagas/JonathasChagas/blob/main/README-pt.md"> Clique aqui para ver a versão em português</a>
+  </i>
 </p>
 
 <h2 align="center">
