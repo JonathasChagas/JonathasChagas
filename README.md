@@ -34,9 +34,6 @@
   </p>
 </div>
 
-</br>
-
-
 <h2 align="center">
   <picture>
     <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.webp" type="image/webp">
