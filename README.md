@@ -47,7 +47,7 @@
 <div align="center">
   <p>
     <a href="https://skillicons.dev">
-      <img height=50 src="https://skillicons.dev/icons?i=java,angular,spring,mysql,docker"/>
+      <img height=50 src="https://skillicons.dev/icons?i=java,spring,ts,angular,mysql,docker"/>
     </a>
   </p>  
 <div>
