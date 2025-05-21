@@ -25,7 +25,7 @@
 
 <div align="center">
   <p>
-    📘 Majoring in Computer Engineering; </br>
+    📘 Majoring in Computer Engineering (dropped out, actually); </br>
     👨‍💻 First started coding in 2023, after joining college; </br>
     🤔 Since then, I've been learning many technologies in a constant search for knowledge.</br></br>
     <picture>
